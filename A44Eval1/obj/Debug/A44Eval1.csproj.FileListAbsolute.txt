@@ -1,0 +1,7 @@
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\bin\Debug\A44Eval1.exe.config
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\bin\Debug\A44Eval1.exe
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\bin\Debug\A44Eval1.pdb
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\obj\Debug\A44Eval1.csproj.AssemblyReference.cache
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\obj\Debug\A44Eval1.csproj.CoreCompileInputs.cache
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\obj\Debug\A44Eval1.exe
+C:\Users\Joannie\Desktop\QUALITE ABDER\PROJETS\Evaluation01\A44Eval1\obj\Debug\A44Eval1.pdb
